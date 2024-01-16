@@ -24,4 +24,4 @@ VITE_FIREBASE_MEASUREMENT_ID=YOUR_MEASUREMENT_ID
 
 Start the application in development mode: `yarn dev`
 
-The application will run at [localhost:3000](http://localhost:3000).
+The application will run at [localhost:5173](http://localhost:5173).
